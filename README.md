@@ -11,4 +11,3 @@ before it installs anything.
 Windows may say "Windows protected your PC" the first time, because the app isn't code-signed. Click **More info**,
 then **Run anyway**.
 
-A fan-made game. All art, names and characters are original.
